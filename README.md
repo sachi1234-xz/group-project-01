@@ -20,7 +20,7 @@ Each place includes:
 The project follows professional Git & DevOps workflows, including branching strategies, pull requests, CI/CD pipelines, and cloud deployment.
 
 Live Deployment
-  Live URL: https://github.com/sachi1234-xz/group-project-01.git
+  Live URL: https://sachi1234-xz.github.io/group-project-01/
 
 Technologies Used
 - HTML5  
