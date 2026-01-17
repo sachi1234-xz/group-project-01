@@ -17,7 +17,7 @@ const data = {
             phone: "+94 76 222 3344"
         }
     ],
-
+    
     historical: [
         {
             name: "Sigiriya",
