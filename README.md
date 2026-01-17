@@ -20,7 +20,7 @@ Each place includes:
 The project follows professional Git & DevOps workflows, including branching strategies, pull requests, CI/CD pipelines, and cloud deployment.
 
 Live Deployment
-  Live URL: https://your-project-name.vercel.app  
+  Live URL: https://github.com/sachi1234-xz/group-project-01.git
 
 Technologies Used
 - HTML5  
