@@ -1,7 +1,7 @@
 Tourism Guide Website – LASSANA SRI LANKA
 
 Group Information
-Student 1:Sachini Rathnayaka – ITBIN-2313-00 – Role: DevOps,Frontend Developer  
+Student 1:S.M.S.S.Rathnayaka – ITBIN-2313-0091 – Role: DevOps,Frontend Developer  
 Student 2: D.M.L.Malmi Bandara – ITBIN-2313-0013 – Role: DevOps,Frontend Developer  
 
 Project Description
