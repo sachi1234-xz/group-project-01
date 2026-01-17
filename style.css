@@ -3,20 +3,17 @@ body {
     margin: 0;
     background-color: #90bbc7;
 }
-
 header {
     background-color: #00695c;
     color: white;
     padding: 20px;
     text-align: center;
 }
-
 nav {
     background-color: #004d40;
     padding: 20px;
     text-align: center;
 }
-
 nav button {
     background: white;
     border: none;
@@ -25,18 +22,15 @@ nav button {
     cursor: pointer;
     font-weight: bold;
 }
-
 nav button:hover {
     background-color: #c8e6c9;
 }
-
 #places {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     padding: 20px;
 }
-
 .place-card {
     background: white;
     width: 1000px;
@@ -45,22 +39,18 @@ nav button:hover {
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     overflow: hidden;
 }
-
 .place-card img {
     width: 100%;
     height: 500px;
     object-fit: cover;
 }
-
 .place-card .content {
     padding: 15px;
 }
-
 .place-card h3 {
     margin-top: 0;
     color: #00695c;
 }
-
 footer {
     text-align: center;
     background: #004d40;
