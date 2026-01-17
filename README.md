@@ -1,19 +1,15 @@
-# 🌍 Tourism Guide Website – Sri Lanka
+Tourism Guide Website – LASSANA SRI LANKA
 
-## 📌 Group Information
-- **Student 1:** Sachini Rathnayaka – ITBIN-2313-XXXX – Role: DevOps / Frontend Developer  
-- **Student 2:** [Partner Name as in LMS] – ITBIN-2313-XXXX – Role: Frontend Developer  
+Group Information
+Student 1:Sachini Rathnayaka – ITBIN-2313-00 – Role: DevOps,Frontend Developer  
+Student 2: D.M.L.Malmi Bandara – ITBIN-2313-0013 – Role: DevOps,Frontend Developer  
 
-> ⚠️ IMPORTANT: Names and IDs MUST exactly match the LMS records.
-
----
-
-## 📖 Project Description
-This project is a **Sri Lanka Tourism Guide Website** developed using **HTML, CSS, and JavaScript**.  
+Project Description
+This project is a Sri Lanka Tourism Guide Website developed using HTML, CSS, and JavaScript.  
 The website allows tourists to explore popular destinations in Sri Lanka categorized as:
-- 🏖 Beach Side Places  
-- 🏛 Historical Places  
-- 🌳 Forest & Nature Places  
+   -Beach Side Places  
+   -Historical Places  
+   -Forest & Nature Places  
 
 Each place includes:
 - Description  
@@ -21,27 +17,20 @@ Each place includes:
 - Nearby hotel details  
 - Contact numbers and email addresses  
 
-The project follows **professional Git & DevOps workflows**, including branching strategies, pull requests, CI/CD pipelines, and cloud deployment.
+The project follows professional Git & DevOps workflows, including branching strategies, pull requests, CI/CD pipelines, and cloud deployment.
 
----
+Live Deployment
+  Live URL: https://your-project-name.vercel.app  
 
-## 🚀 Live Deployment
-🔗 **Live URL:** https://your-project-name.vercel.app  
-*(Replace with your actual deployed link)*
-
----
-
-## 🛠 Technologies Used
+Technologies Used
 - HTML5  
-- CSS3  
-- JavaScript (Vanilla JS)  
+- CSS  
+- JavaScript 
 - Git & GitHub  
 - GitHub Actions (CI/CD)  
 - Vercel (Deployment)
 
----
-
-## ✨ Features
+Features
 - Categorized tourist destinations
 - Responsive UI design
 - Image-based landing page
@@ -49,51 +38,30 @@ The project follows **professional Git & DevOps workflows**, including branching
 - Clean navigation
 - Git-based team collaboration
 
----
+Branch Strategy
+We followed a Git Flow–based branching strategy:
+  - `main` – Production-ready code (protected branch)
+  - `develop` – Integration branch for features
+  - `feature/*` – Individual feature branches for team members  
 
-## 🌿 Branch Strategy
-We followed a **Git Flow–based branching strategy**:
+Individual Contributions
 
-- `main` – Production-ready code (protected branch)
-- `develop` – Integration branch for features
-- `feature/*` – Individual feature branches for team members  
-
-Example:
-- `feature/homepage-ui`
-- `feature/hotel-section`
-
----
-
-## 👤 Individual Contributions
-
-### Sachini Rathnayaka
+Sachini Rathnayaka
 - Repository setup and configuration  
 - Branch creation and management  
 - CI/CD pipeline implementation using GitHub Actions  
 - Deployment to Vercel  
 - Homepage UI development  
 
-### [Partner Name]
+Malmi Bandara
 - Feature branch development  
-- Destination category sections  
+- Destination category sections
+- Homepage UI development  
 - Styling and UI improvements  
 - Pull request creation and reviews  
 
----
-
-## ⚙️ Setup Instructions
-
-### 🔧 Prerequisites
+Setup Instructions
+Prerequisites
 - Git
 - Web browser (Chrome / Edge / Firefox)
 - Code editor (VS Code recommended)
-
-### 🖥 Installation
-```bash
-# Clone the repository
-git clone https://github.com/username/repo-name.git
-
-# Navigate to project folder
-cd repo-name
-
-# Open index.html in browser
