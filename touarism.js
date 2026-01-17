@@ -36,7 +36,7 @@ const data = {
             phone: "+94 27 333 8899"
         }
     ],
-
+    
     forest: [
         {
             name: "Sinharaja Forest",
