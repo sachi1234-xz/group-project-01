@@ -60,7 +60,7 @@ const data = {
 function showCategory(category) {
     const container = document.getElementById("places");
     container.innerHTML = "";
-
+    
     data[category].forEach(place => {
         container.innerHTML += `
             <div class="place-card">
