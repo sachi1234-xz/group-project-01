@@ -42,7 +42,18 @@ Branch Strategy
 We followed a Git Flow–based branching strategy:
   - `main` – Production-ready code (protected branch)
   - `develop` – Integration branch for features
-  - `feature/*` – Individual feature branches for team members  
+  - `feature/*` – Individual feature branches for team members
+
+Docker Containerization
+The project is containerized using Docker for consistent deployment. Docker containerization is used for deploying the website in a container without installing any additional software in the environment.
+
+Docker Components Used
+The components used for containerization using Docker are as follows:
+- Dockerfile: Instructions for creating a Docker image for the application.
+- docker-compose.yml: File for executing the containerized application.
+- .dockerignore: Contains a list of files that do not have to be included in the Docker container.
+
+The application uses Nginx (Alpine) as a lightweight web server for static pages such as HTML, CSS, and JavaScript files.
 
 Individual Contributions
 
